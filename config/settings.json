@@ -1,0 +1,22 @@
+{
+  "interval_ms": 50,
+  "interval_min_ms": 50,
+  "interval_max_ms": 50,
+  "variance_pct": 0,
+  "mouse_button": "left",
+  "jitter": "none",
+  "click_count": 0,
+  "hotkey": "f6",
+  "click_mode": "region",
+  "radius_px": 50,
+  "anchor": [
+    1159,
+    384
+  ],
+  "region": [
+    475,
+    300,
+    892,
+    344
+  ]
+}
